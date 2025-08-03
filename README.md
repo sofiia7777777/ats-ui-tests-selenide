@@ -25,3 +25,7 @@ A user with valid credentials exists.
 - Maven
 - Page Object Model (POM)
 
+## Additional Features
+
+- Elements are **highlighted during test execution** whenever any action is performed on them.  
+
